@@ -13,10 +13,13 @@
 
 	<div class="wrapper">
 
-		<p>First Name</p> <input type="text" id="firstName"/>
-  	<p>Last Name</p> <input type="text" id="lastName"/>
-  	<p>Comments</p> <input type="textarea" id="comments"/>
-		<button type="button" id="submitBtn" onclick="ajax_post();">Submit</button>
+		<form>
+			<p>First Name</p> <input type="text" id="firstName"/>
+  		<p>Last Name</p> <input type="text" id="lastName"/>
+			<button type="button" id="submitBtn" onclick="javascript:ajax_post();">Submit</button>
+		</form>
+
+		<h3 id="status"></h>
 
 	</div>
 
