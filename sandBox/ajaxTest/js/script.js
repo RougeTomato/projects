@@ -16,7 +16,7 @@ function ajax_post() {
   //XMLHttpRequest.setRequestHeader() accepts 2 parameters: "Content-type", "application/x-www-form-urlencoded"
   hr.setRequestHeader("Content-type", "application/x-www-form-urlencoded")
 
-  //access the onreadystatechange even for the XMLHttpRequest object
+  //access the onreadystatechange event for the XMLHttpRequest object
   hr.onreadystatechange = function () {
 
     if(hr.readyState == 4 && hr.status == 200) {

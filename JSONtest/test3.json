@@ -1,0 +1,31 @@
+{"commonCarsInUAE":{ "brand": "Toyota", "model": "Corolla","engine": 1800},
+  { "brand": "Toyota",
+    "model": "LC Prado",
+    "engine": 2700
+  },
+  { "brand": "Toyota",
+    "model": "FJ Cruiser",
+    "engine": 4000,
+  },
+  { "brand": "Toyota",
+    "model": "LC200",
+    "engine": 4500
+  },
+  { "brand": "Honda",
+    "model": "Civic",
+    "engine": 1800
+  },
+  { "brand": "Nissan",
+    "model": "Tiida",
+    "engine": 1800
+  },
+  { "brand": "Toyota",
+    "model": "Camry",
+    "engine": 2400
+  },
+  { "brand": "Nissan",
+    "model": "Altima",
+    "engine": 2400
+  }
+
+}
