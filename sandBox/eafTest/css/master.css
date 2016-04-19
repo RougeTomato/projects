@@ -1,0 +1,13 @@
+#inFocus {
+  width: 100vw; height: 100vh;
+  background-color: black;
+  opacity: 0.4
+  position: absolute;
+}
+
+#inFocusBG {
+  background-color: black;
+  opacity: 0.3;
+  visibility: hidden;
+  height: 100vh; width: 100vw;
+}
